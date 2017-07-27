@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+html {
+  background: url(mariages-background.jpg) no-repeat right top fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.Line-Row {
+  height: 700px;
+  position: fixed;
+  top: 8%;
+  bottom: 0;
+  left: 30%;
+  font-size: 240px;
+}
+
+.Bar-Button {
+  position: fixed;
+  bottom: 0;
+  left: 15%;
+}
+
+.Button-on-the-Bar {
+  margin-left: 5px;
+  background-color:"#808080";
+}
+
+.App-header {
+  background-color: hotpink;
+  color: white;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.Iimg {
+  display: block;
+  max-width:1900px;
+  max-height:700px;
+  width: auto;
+  height: auto;
+}

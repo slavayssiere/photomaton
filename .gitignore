@@ -1,1 +1,2 @@
-ui-photo/node_modules/
+ui-photo/node_modules/*
+ui-photo/public/photos/*
